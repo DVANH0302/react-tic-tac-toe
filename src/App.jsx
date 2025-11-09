@@ -95,7 +95,7 @@ function App() {
             onChangeName={handlePlayerNameChange}
           />
           <Player
-            initialName={PLAYERS.Y}
+            initialName={PLAYERS.O}
             symbol="O"
             isActive={activePlayer}
             onChangeName={handlePlayerNameChange}
